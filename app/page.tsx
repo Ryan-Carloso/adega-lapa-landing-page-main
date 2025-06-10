@@ -7,7 +7,7 @@ import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 import { useLanguage } from "@/contexts/language-context"
 import GoogleMaps from "@/components/GoogleMaps"
-
+ 
 export default function Home() {
   const { t } = useLanguage()
 

@@ -173,21 +173,19 @@ const translations = {
     "social.rating": "Google Rating",
     "social.rank": "Francesinha in Porto",
 
-    // Problem Section
-    "problem.title": "Tired of francesinhas that",
-    "problem.title2": "disappoint",
-    "problem.subtitle":
-      "Watery sauce, low-quality ingredients, soggy bread... We know how frustrating it is to pay a lot for a mediocre francesinha.",
-    "problem.sauce": "Flavorless Sauce",
-    "problem.sauce.desc": "Industrial sauces that have nothing to do with the traditional recipe",
-    "problem.meat": "Poor Quality Meat",
-    "problem.meat.desc": "Processed meats and cheap sausages that ruin the entire experience",
-    "problem.price": "Abusive Price",
-    "problem.price.desc": "Paying a lot for little, without quality or tradition",
-    "problem.solution": "At Adega Da Lapa, it's",
-    "problem.solution2": "different",
-    "problem.solution.desc":
-      "Secret recipe kept for 3 generations. Ingredients selected daily. The sauce that made history in Porto. This is the francesinha that will change your life.",
+    "problem.title": "Picky about your francesinha?",
+"problem.title2": "So are we",
+"problem.subtitle": "Authentic sauce, fresh ingredients, and crispy bread. The traditional Porto recipe, made with love and dedication.",
+"problem.sauce": "Authentic Sauce",
+"problem.sauce.desc": "Our secret recipe, passed down for 3 generations, made with fresh ingredients and love",
+"problem.meat": "Fresh Meat",
+"problem.meat.desc": "Carefully selected meats every day to ensure the best flavor",
+"problem.price": "Fair Price",
+"problem.price.desc": "Pay a fair price for a high-quality francesinha, made with love and dedication",
+"problem.solution": "At Adega Da Lapa, it's",
+"problem.solution2": "different",
+"problem.solution.desc": "Our secret recipe, made with fresh ingredients and love, is the right choice for those looking for an authentic and delicious francesinha.",
+
 
     // Products
     "products.title": "More than just a francesinha",
@@ -270,21 +268,19 @@ const translations = {
     "social.rating": "Note Google",
     "social.rank": "Francesinha de Porto",
 
-    // Problem Section
-    "problem.title": "Fatigué des francesinhas qui",
-    "problem.title2": "déçoivent",
-    "problem.subtitle":
-      "Sauce aqueuse, ingrédients de mauvaise qualité, pain détrempé... Nous savons comme c'est frustrant de payer cher pour une francesinha médiocre.",
-    "problem.sauce": "Sauce Sans Saveur",
-    "problem.sauce.desc": "Sauces industrielles qui n'ont rien à voir avec la recette traditionnelle",
-    "problem.meat": "Viande de Mauvaise Qualité",
-    "problem.meat.desc": "Viandes transformées et saucisses bon marché qui gâchent toute l'expérience",
-    "problem.price": "Prix Abusif",
-    "problem.price.desc": "Payer beaucoup pour peu, sans qualité ni tradition",
-    "problem.solution": "Chez Adega Da Lapa, c'est",
-    "problem.solution2": "différent",
-    "problem.solution.desc":
-      "Recette secrète gardée depuis 3 générations. Ingrédients sélectionnés quotidiennement. La sauce qui a fait l'histoire de Porto. C'est la francesinha qui va changer votre vie.",
+    "problem.title": "Exigeant avec votre francesinha ?",
+"problem.title2": "Nous aussi",
+"problem.subtitle": "Sauce authentique, ingrédients frais et pain croustillant. La recette traditionnelle de Porto, préparée avec amour et dévouement.",
+"problem.sauce": "Sauce Authentique",
+"problem.sauce.desc": "Notre recette secrète, transmise depuis 3 générations, préparée avec des ingrédients frais et beaucoup d'amour",
+"problem.meat": "Viande Fraîche",
+"problem.meat.desc": "Des viandes sélectionnées quotidiennement pour garantir la meilleure saveur",
+"problem.price": "Prix Juste",
+"problem.price.desc": "Payez un prix juste pour une francesinha de qualité, faite avec amour et dévouement",
+"problem.solution": "Chez Adega Da Lapa, c’est",
+"problem.solution2": "différent",
+"problem.solution.desc": "Notre recette secrète, préparée avec des ingrédients frais et de l’amour, est le choix idéal pour ceux qui recherchent une francesinha authentique et savoureuse.",
+
 
     // Products - French
     "products.title": "Plus qu'une simple francesinha",
@@ -398,21 +394,19 @@ const translations = {
     "social.rating": "Valoración Google",
     "social.rank": "Francesinha de Oporto",
 
-    // Problem Section
-    "problem.title": "¿Cansado de francesinhas que",
-    "problem.title2": "decepcionan",
-    "problem.subtitle":
-      "Salsa aguada, ingredientes de baja calidad, pan empapado... Sabemos lo frustrante que es pagar caro por una francesinha mediocre.",
-    "problem.sauce": "Salsa Sin Sabor",
-    "problem.sauce.desc": "Salsas industriales que no tienen nada que ver con la receta tradicional",
-    "problem.meat": "Carne de Mala Calidad",
-    "problem.meat.desc": "Carnes procesadas y embutidos baratos que arruinan toda la experiencia",
-    "problem.price": "Precio Abusivo",
-    "problem.price.desc": "Pagar mucho por poco, sin calidad ni tradición",
-    "problem.solution": "En Adega Da Lapa, es",
-    "problem.solution2": "diferente",
-    "problem.solution.desc":
-      "Receta secreta guardada durante 3 generaciones. Ingredientes seleccionados diariamente. La salsa que hizo historia en Oporto. Esta es la francesinha que cambiará tu vida.",
+    "problem.title": "¿Exigente con tu francesinha?",
+"problem.title2": "Nosotros también",
+"problem.subtitle": "Salsa auténtica, ingredientes frescos y pan crujiente. La receta tradicional de Oporto, hecha con amor y dedicación.",
+"problem.sauce": "Salsa Auténtica",
+"problem.sauce.desc": "Nuestra receta secreta, guardada por 3 generaciones, hecha con ingredientes frescos y amor",
+"problem.meat": "Carne Fresca",
+"problem.meat.desc": "Carnes seleccionadas diariamente para garantizar el mejor sabor",
+"problem.price": "Precio Justo",
+"problem.price.desc": "Paga un precio justo por una francesinha de calidad, hecha con amor y dedicación",
+"problem.solution": "En Adega Da Lapa, es",
+"problem.solution2": "diferente",
+"problem.solution.desc": "Nuestra receta secreta, hecha con ingredientes frescos y amor, es la elección perfecta para quien busca una francesinha auténtica y deliciosa.",
+
 
     // Products - Spanish
     // Testimonials

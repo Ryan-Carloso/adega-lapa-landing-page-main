@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://capanegra1.pt
+Host: https://adegadalapa.com
 
 # Sitemaps
-Sitemap: https://capanegra1.pt/sitemap.xml
+Sitemap: https://adegadalapa.com/sitemap.xml

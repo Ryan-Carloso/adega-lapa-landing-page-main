@@ -103,7 +103,7 @@ export default function Home() {
   <div className="container px-4 mx-auto max-w-7xl">
     <div className="text-center mb-16">
       <h2 className="text-4xl font-extrabold text-gray-900">
-        {t("problem.title")} <span className="text-amber-600">{t("problem.title2")}</span>?
+        {t("problem.title")} <span className="text-amber-600">{t("problem.title2")}!</span>
       </h2>
       <p className="mt-4 text-lg text-gray-600">{t("problem.subtitle")}</p>
     </div>

@@ -50,7 +50,7 @@ const translations = {
     "problem.meat.desc": "Carnes selecionadas diariamente, para garantir o melhor sabor",
     "problem.price": "Preço Justo",
     "problem.price.desc": "Pague um preço justo por uma francesinha de qualidade, feita com amor e dedicação",
-    "problem.solution": "No Capa Negra I, é",
+    "problem.solution": "No Adega Da Lapa, é",
     "problem.solution2": "diferente",
     "problem.solution.desc":
       "Nossa receita secreta, feita com ingredientes frescos e amor, é a escolha certa para quem procura uma francesinha autêntica e deliciosa.",
@@ -58,7 +58,7 @@ const translations = {
     // Products
     "products.title": "Mais do que uma francesinha",
     "products.subtitle":
-      "Descubra os sabores autênticos que fazem do Capa Negra I uma referência gastronómica no Porto",
+      "Descubra os sabores autênticos que fazem do Adega Da Lapa uma referência gastronómica no Porto",
     "products.francesinha": "Francesinha Especial",
     "products.francesinha.sub": "O nosso prato-estrela",
     "products.francesinha.desc":
@@ -184,14 +184,14 @@ const translations = {
     "problem.meat.desc": "Processed meats and cheap sausages that ruin the entire experience",
     "problem.price": "Abusive Price",
     "problem.price.desc": "Paying a lot for little, without quality or tradition",
-    "problem.solution": "At Capa Negra I, it's",
+    "problem.solution": "At Adega Da Lapa, it's",
     "problem.solution2": "different",
     "problem.solution.desc":
       "Secret recipe kept for 3 generations. Ingredients selected daily. The sauce that made history in Porto. This is the francesinha that will change your life.",
 
     // Products
     "products.title": "More than just a francesinha",
-    "products.subtitle": "Discover the authentic flavors that make Capa Negra I a gastronomic reference in Porto",
+    "products.subtitle": "Discover the authentic flavors that make Adega Da Lapa a gastronomic reference in Porto",
     "products.pasteis": "Codfish Cakes",
     "products.pasteis.sub": "Crispy and tasty",
     "products.pasteis.desc":
@@ -281,14 +281,14 @@ const translations = {
     "problem.meat.desc": "Viandes transformées et saucisses bon marché qui gâchent toute l'expérience",
     "problem.price": "Prix Abusif",
     "problem.price.desc": "Payer beaucoup pour peu, sans qualité ni tradition",
-    "problem.solution": "Chez Capa Negra I, c'est",
+    "problem.solution": "Chez Adega Da Lapa, c'est",
     "problem.solution2": "différent",
     "problem.solution.desc":
       "Recette secrète gardée depuis 3 générations. Ingrédients sélectionnés quotidiennement. La sauce qui a fait l'histoire de Porto. C'est la francesinha qui va changer votre vie.",
 
     // Products - French
     "products.title": "Plus qu'une simple francesinha",
-    "products.subtitle": "Découvrez les saveurs authentiques qui font de Capa Negra I une référence gastronomique à Porto",
+    "products.subtitle": "Découvrez les saveurs authentiques qui font de Adega Da Lapa une référence gastronomique à Porto",
     "products.francesinha.normal.title": "Francesinha Classique",
     "products.francesinha.normal.price": "12,50€",
     "products.francesinha.normal.desc": "Le sandwich traditionnel de Porto avec jambon, chorizo, steak, fromage fondu et notre sauce spéciale",
@@ -360,7 +360,7 @@ const translations = {
 
     // Products - Spanish
     "products.title": "Más que una simple francesinha",
-    "products.subtitle": "Descubre los sabores auténticos que hacen de Capa Negra I una referencia gastronómica en Oporto",
+    "products.subtitle": "Descubre los sabores auténticos que hacen de Adega Da Lapa una referencia gastronómica en Oporto",
     "products.francesinha.normal.title": "Francesinha Clásica",
     "products.francesinha.normal.price": "12,50€",
     "products.francesinha.normal.desc": "El sándwich tradicional de Oporto con jamón, chorizo, bistec, queso fundido y nuestra salsa especial",
@@ -409,7 +409,7 @@ const translations = {
     "problem.meat.desc": "Carnes procesadas y embutidos baratos que arruinan toda la experiencia",
     "problem.price": "Precio Abusivo",
     "problem.price.desc": "Pagar mucho por poco, sin calidad ni tradición",
-    "problem.solution": "En Capa Negra I, es",
+    "problem.solution": "En Adega Da Lapa, es",
     "problem.solution2": "diferente",
     "problem.solution.desc":
       "Receta secreta guardada durante 3 generaciones. Ingredientes seleccionados diariamente. La salsa que hizo historia en Oporto. Esta es la francesinha que cambiará tu vida.",

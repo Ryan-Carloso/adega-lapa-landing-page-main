@@ -251,12 +251,12 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Francesinha Capa Negra 1 */}
+            {/* Francesinha Adega Da Lapa */}
             <div className="group overflow-hidden rounded-lg bg-white shadow-lg transition-transform hover:scale-105">
               <div className="relative h-64">
                 <Image
                   src="/FoodPhoto/francesinhas/F com bacon.png"
-                  alt="Francesinha Capa Negra 1"
+                  alt="Francesinha Adega Da Lapa"
                   fill
                   className="object-cover"
                 />

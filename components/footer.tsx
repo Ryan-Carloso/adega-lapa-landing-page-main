@@ -21,7 +21,7 @@ export default function Footer() {
                 priority
                 className="bg-white p-3 rounded-xl"
               />
-              <span className="text-xl font-bold text-white">Capa Negra I</span>
+              <span className="text-xl font-bold text-white">Adega Da Lapa</span>
             </div>
             <p className="mb-4">{t("footer.tagline")}</p>
             <p className="text-sm">{t("footer.description")}</p>
@@ -54,7 +54,7 @@ export default function Footer() {
       <div className="border-t border-gray-800 py-6">
         <div className="container text-center text-sm">
           <p>
-            &copy; {new Date().getFullYear()} Capa Negra I. {t("footer.rights")}
+            &copy; {new Date().getFullYear()} Adega Da Lapa. {t("footer.rights")}
           </p>
         </div>
       </div>

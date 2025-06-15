@@ -13,12 +13,12 @@ export default function SpecialtySection() {
 
         <div className="grid gap-12 md:grid-cols-2">
           <div className="relative h-[400px] overflow-hidden rounded-lg md:h-auto">
-            <Image src="/images/francesinha.jpg" alt="Francesinha do Capa Negra I" fill className="object-cover" />
+            <Image src="/images/francesinha.jpg" alt="Francesinha do Adega Da Lapa" fill className="object-cover" />
           </div>
           <div className="flex flex-col justify-center">
             <h4 className="mb-4 text-2xl font-bold">Uma Experiência Única</h4>
             <p className="mb-4 text-gray-700">
-              A Francesinha do Capa Negra I é preparada seguindo a receita tradicional, com pão de forma, linguiça,
+              A Francesinha do Adega Da Lapa é preparada seguindo a receita tradicional, com pão de forma, linguiça,
               salsicha fresca, fiambre, bife de carne bovina, queijo e o nosso molho secreto que é o verdadeiro segredo
               desta iguaria.
             </p>

@@ -5,17 +5,17 @@ export default function Gallery() {
     {
       id: 1,
       src: "/images/gallery-1.jpg",
-      alt: "Interior do restaurante Capa Negra I",
+      alt: "Interior do restaurante Adega Da Lapa",
     },
     {
       id: 2,
       src: "/images/gallery-2.jpg",
-      alt: "Francesinha do Capa Negra I",
+      alt: "Francesinha do Adega Da Lapa",
     },
     {
       id: 3,
       src: "/images/gallery-3.jpg",
-      alt: "Clientes no Capa Negra I",
+      alt: "Clientes no Adega Da Lapa",
     },
     {
       id: 4,

@@ -13,7 +13,7 @@ export default function Testimonials() {
       id: 2,
       name: "Maria Santos",
       location: "Lisboa, Portugal",
-      text: "Sempre que vou ao Porto, faço questão de visitar o Capa Negra I. A francesinha é divinal e o serviço é excelente.",
+      text: "Sempre que vou ao Porto, faço questão de visitar o Adega Da Lapa. A francesinha é divinal e o serviço é excelente.",
       rating: 5,
     },
     {

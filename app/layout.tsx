@@ -7,7 +7,7 @@ import { LanguageProvider } from "@/contexts/language-context"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Capa Negra I - Autêntica Francesinha do Porto",
+  title: "Adega Da Lapa - Autêntica Francesinha do Porto",
   description:
     "Restaurante especializado na autêntica francesinha do Porto desde 1968. Experimente a melhor francesinha da cidade.",
     generator: 'make4ryan'

@@ -24,7 +24,7 @@ export default function Navbar() {
               alt="icon restaurant Capa Negra 1 do bonfim"
               priority
             />
-            <span className="text-xl font-bold">Capa Negra I</span>
+            <span className="text-xl font-bold">Adega Da Lapa</span>
           </Link>
         </div>
 

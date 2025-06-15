@@ -82,7 +82,7 @@ export default function ReservePage() {
             people: parseInt(form.people),
             is_special_event: form.isSpecialEvent,
             event_type: form.eventType || null,
-            restaurant: "Capa Negra I",
+            restaurant: "Adega Da Lapa",
             status: 'pending'
           }
         ])
@@ -93,7 +93,7 @@ export default function ReservePage() {
       // Format WhatsApp message
       const eventInfo = form.isSpecialEvent ? `\nTipo de Evento: ${form.eventType}` : ''
       const message = encodeURIComponent(
-        `Olá, gostaria de fazer uma reserva no Restaurante Capa Negra I.\n\n` +
+        `Olá, gostaria de fazer uma reserva no Restaurante Adega Da Lapa.\n\n` +
         `*Nome:* ${form.name}\n` +
         `*Email:* ${form.email}\n` +
         `*Telefone:* ${form.phone}\n` +
@@ -146,7 +146,7 @@ export default function ReservePage() {
         <div className="bg-white/90 backdrop-blur-sm p-8 rounded-lg shadow-xl w-full max-w-md relative z-10">
           <div className="text-center mb-6">
             <h1 className="text-3xl font-bold text-gray-800 mb-2">Faça sua reserva</h1>
-            <p className="text-gray-600">Garanta o seu lugar no Capa Negra I</p>
+            <p className="text-gray-600">Garanta o seu lugar no Adega Da Lapa</p>
           </div>
           <form onSubmit={handleSubmit} className="space-y-4">
             <div>

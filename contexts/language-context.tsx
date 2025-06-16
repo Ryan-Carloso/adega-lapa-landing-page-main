@@ -93,11 +93,9 @@ const translations = {
       "Amazing experience! The francesinha was incredible and the service was perfect. A must-visit in Porto!",
 
     // Urgency
-    "urgency.title": "⚠️ Atenção: Estamos mesmo esgotados sempre!",
-    "urgency.subtitle":
-      "Somos um dos restaurantes mais procurados do Porto. Muitos clientes ficam sem mesa por não fazerem reserva com antecedência.",
-
-    "urgency.warning": "Não perca a oportunidade de provar uma das melhores francesinhas do Porto.",
+    "urgency.title": "Garanta sua mesa",
+    "urgency.subtitle": "Algumas datas e horários são muito disputados — reserve com antecedência.",
+    "urgency.warning": "Não perca a chance de provar uma das francesinhas mais apreciadas do Porto.",
 
     // Final CTA
     "cta.title": "Reserve já e garanta a sua mesa",
@@ -210,10 +208,10 @@ const translations = {
       "Amazing experience! The francesinha was incredible and the service was perfect. A must-visit in Porto!",
 
     // Urgency
-    "urgency.title": "⚠️ Warning: We're full every day!",
-    "urgency.subtitle":
-      "We're one of the most sought-after restaurants in Porto. Many customers are left without a table for not booking in advance.",
-    "urgency.warning": "Don't miss the opportunity to taste one of the best francesinhas in Porto.",
+    "urgency.title": "Secure your table",
+    "urgency.subtitle": "Some dates and times are in high demand — book in advance.",
+    "urgency.warning": "Don't miss the chance to try one of the most beloved francesinhas in Porto.",
+
 
     // Final CTA
     "cta.title": "Reserve Now and Guarantee Your Table",
@@ -314,10 +312,10 @@ const translations = {
       "Expérience incroyable ! La francesinha était incroyable et le service parfait. Un incontournable à Porto !",
 
     // Urgency
-    "urgency.title": "⚠️ Attention : Nous sommes complets tous les jours !",
-    "urgency.subtitle":
-      "Nous sommes l'un des restaurants les plus recherchés de Porto. Beaucoup de clients restent sans table faute de réserver à l'avance.",
-    "urgency.warning": "Ne ratez pas l'opportunité de goûter une des meilleures francesinhas de Porto.",
+    "urgency.title": "Réservez votre table",
+    "urgency.subtitle": "Certains créneaux sont très demandés — réservez à l'avance.",
+    "urgency.warning": "Ne manquez pas l’occasion de goûter l’une des francesinhas les plus appréciées de Porto.",
+
 
     // Final CTA
     "cta.title": "Réservez Maintenant et Garantissez Votre Table",
@@ -420,10 +418,9 @@ const translations = {
       "¡Experiencia increíble! La francesinha fue increíble y el servicio perfecto. ¡Una visita obligada en Oporto!",
 
     // Urgency
-    "urgency.title": "⚠️ Atención: ¡Estamos llenos todos los días!",
-    "urgency.subtitle":
-      "Somos uno de los restaurantes más buscados de Oporto. Muchos clientes se quedan sin mesa por no reservar con antelación.",
-    "urgency.warning": "No pierdas la oportunidad de probar una de las mejores francesinhas de Oporto.",
+    "urgency.title": "Asegura tu mesa",
+    "urgency.subtitle": "Algunas fechas y horarios son muy solicitados — reserva con antelación.",
+    "urgency.warning": "No pierdas la oportunidad de probar una de las francesinhas más apreciadas de Oporto.",
 
     // Final CTA
     "cta.title": "Reserva Ahora y Garantiza Tu Mesa",

@@ -292,7 +292,13 @@ export default function Home() {
               </div>
               <p className="mb-6 text-gray-700">"{t("testimonials.1")}"</p>
               <div className="flex items-center gap-3">
-                <div className="h-12 w-12 rounded-full bg-gray-300"></div>
+                <Image
+                  src="/depoimento/ana silva.jpeg"
+                  alt="Ana Silva"
+                  width={48}
+                  height={48}
+                  className="rounded-full"
+                />
                 <div>
                   <p className="font-semibold">Ana Silva</p>
                   <p className="text-sm text-gray-500">Lisboa</p>
@@ -309,7 +315,7 @@ export default function Home() {
               <p className="mb-6 text-gray-700">"{t("testimonials.2")}"</p>
               <div className="flex items-center gap-3">
                 <Image
-                  src="/FoodPhoto/Joao.jpg"
+                  src="/depoimento/joao santos.jpeg"
                   alt="João Santos"
                   width={48}
                   height={48}
@@ -330,15 +336,22 @@ export default function Home() {
               </div>
               <p className="mb-6 text-gray-700">"{t("testimonials.3")}"</p>
               <div className="flex items-center gap-3">
-                <div className="h-12 w-12 rounded-full bg-gray-300"></div>
+                <Image
+                  src="/depoimento/michel walker.jpeg"
+                  alt="Michael Walker Adega Da Lapa"
+                  width={48}
+                  height={48}
+                  className="rounded-full"
+                />
                 <div>
-                  <p className="font-semibold">Michael Johnson</p>
+                  <p className="font-semibold">Michael Walker</p>
                   <p className="text-sm text-gray-500">London</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
+
       </section>  
 
       <GoogleMaps />

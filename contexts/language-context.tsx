@@ -115,8 +115,8 @@ const translations = {
     "contact.phone": "Telefone",
     "contact.phone.desc": "Chamada para rede fixa nacional",
     "contact.hours": "Horário",
-    "contact.hours.weekdays": "Segunda a Quinta: 10h00–23h00",
-    "contact.hours.weekend": "Sexta - Sábado 10h00–00h00",
+    "contact.hours.weekdays": "Segunda 17-22, terça a quinta 14h00–22h00",
+    "contact.hours.weekend": "Sexta - Sábado 14h00–23h00",
 
     // Footer
     "footer.tagline": "A autêntica francesinha do Porto desde 1969.",
@@ -231,8 +231,9 @@ const translations = {
     "contact.phone": "Phone",
     "contact.phone.desc": "Call to national landline",
     "contact.hours": "Hours",
-    "contact.hours.weekdays": "Monday - Thursday: 10am to 11pm",
-    "contact.hours.weekend": "Friday - Saturday: 10am to 12am", 
+    "contact.hours.weekdays": "Monday 17-22, Tuesday to Thursday 14-22",
+    "contact.hours.weekend": "Friday to Saturday 14-23",
+ 
 
     // Footer
     "footer.tagline": "The authentic francesinha from Porto since 1969.",
@@ -335,8 +336,9 @@ const translations = {
     "contact.phone": "Téléphone",
     "contact.phone.desc": "Appel vers ligne fixe nationale",
     "contact.hours": "Horaires",
-    "contact.hours.weekdays": "Lundi - Jeudi : 10h à 23h",
-    "contact.hours.weekend": "Vendredi - Dimanche : 10h à 00h",
+    "contact.hours.weekdays": "Lundi 17h-22h, Mardi à Jeudi 14h-22h",
+    "contact.hours.weekend": "Vendredi à Samedi 14h-23h",
+
 
     // Footer
     "footer.tagline": "L'authentique francesinha de Porto depuis 1969.",
@@ -440,8 +442,8 @@ const translations = {
     "contact.phone": "Teléfono",
     "contact.phone.desc": "Llamada a línea fija nacional",
     "contact.hours": "Horario",
-    "contact.hours.weekdays": "Lunes - Jueves: 10h a 23h",
-    "contact.hours.weekend": "Viernes - Sabado: 10h a 00h",
+    "contact.hours.weekdays": "Lunes 17-22, Martes a Jueves 14-22",
+    "contact.hours.weekend": "Viernes a Sábado 14-23",
 
     // Footer
     "footer.tagline": "La auténtica francesinha de Oporto desde 1969.",

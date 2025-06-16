@@ -431,7 +431,7 @@ export default function Home() {
             <div className="text-center">
               <Phone className="mx-auto mb-3 h-8 w-8 text-amber-400" />
               <h3 className="mb-2 text-lg font-semibold">{t("contact.phone")}</h3>
-              <p>+351 22 245 3725</p>
+              <p>351 224 938 201</p>
               <p>{t("contact.phone.desc")}</p>
             </div>
             <div className="text-center">

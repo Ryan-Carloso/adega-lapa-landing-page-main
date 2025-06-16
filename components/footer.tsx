@@ -30,10 +30,10 @@ export default function Footer() {
           <div>
             <h4 className="mb-4 text-lg font-semibold text-white">{t("contact.location")}</h4>
             <address className="not-italic space-y-2">
-              <p>R. de Barros Lima 487, 4300-062 Porto</p>
-              <p>4300-062 Porto, Portugal</p>
-              <p>+351 22 245 3725</p>
-            </address>
+              <p>Largo da Lapa 9 4000 Porto</p>
+              <p>4000 Porto, Portugal</p>
+              <p>351 224 938 201</p>
+            </address>  
           </div>
 
           <div>

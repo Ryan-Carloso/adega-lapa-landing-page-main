@@ -6,6 +6,7 @@ import { ChevronRight, Clock, MapPin, Phone, Star, Users, Heart } from "lucide-r
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
 import { useLanguage } from "@/contexts/language-context"
+import GoogleMaps from "@/components/GoogleMaps"
 
 export default function Home() {
   const { t } = useLanguage()
@@ -338,17 +339,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div  className="rounded-xl mt-10 mb-10 overflow-hidden mx-4 h-80">
-        <iframe
-          className="w-full h-full"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.243762329098!2d-8.596891624478525!3d41.151032010623375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464f2ad943855%3A0xe0f549359c3e1a41!2sRestaurante%20Capa%20Negra%20I!5e0!3m2!1sen!2spt!4v1741807392319!5m2!1sen!2spt"
-          style={{ border: 0 }}
-          allowFullScreen
-          loading="eager"
-          referrerPolicy="no-referrer-when-downgrade"
-        />
-      </div>
-      </section>
+      </section>  
+
+      <GoogleMaps />
 
 
 
